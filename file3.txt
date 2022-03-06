@@ -1,1 +1,2 @@
 correct change in file3
+goodbye
